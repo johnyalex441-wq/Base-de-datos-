@@ -1,4 +1,4 @@
-# Base-de-datos-
+# Entrega de primera administracion de BD-
 Trabajo de base de datos en MySQL del equipo N°3
 
 La base de datos trata de una tienda de accesorios para PC la cual contiene 
